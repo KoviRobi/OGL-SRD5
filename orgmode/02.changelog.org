@@ -1,0 +1,110 @@
+[TOC]
+
+** April 24th, 2018
+
+:fa-check-square: Complete conversion of original
+[[http://dnd.wizards.com/articles/features/systems-reference-document-srd][D&D
+5E SRD 5.1]] from PDF format to
+[[https://daringfireball.net/projects/markdown][Markdown]] format.
+Adjust all markdown headers.
+
+** April 27th, 2018
+
+:fa-check-square: Create
+[[https://github.com/sigillumrasa/OGL-SRD5][OGL-SRD5 GitHub
+repository]]. Sync with [[https://desktop.github.com][GitHub Desktop]]
+app.
+
+** 
+
+:fa-check-square: Create section folders and upload SRD markdown pages.
+
+** 
+
+:fa-check-square: Purchase [[http://ogl-srd5.com][OGL-SRD5.com]] domain.
+
+** 
+
+:fa-check-square: Create [[http://ogl-srd5.com][OGL-SRD5.com]] hosting
+account with [[http://sigillum-rasa.enterprises][Sigillum-Rasa]].
+
+** 
+
+:fa-check-square: Create [[http://ogl-srd5.com][OGL-SRD5.com]] website
+using [[https://getgrav.org][GRAV open source flat-file CMS]].
+
+** 
+
+:fa-check-square: Install custom
+[[https://github.com/hibbitts-design/grav-theme-learn2-git-sync][Learn2
+with Git Sync]] theme for [[https://getgrav.org][GRAV]].
+
+** 
+
+:fa-check-square: Install various
+[[https://getgrav.org/downloads/plugins][Plugins for GRAV]].
+
+** 
+
+:fa-check-square: Sync website with
+[[https://github.com/sigillumrasa/OGL-SRD5][GitHub repo]] with
+[[https://github.com/trilbymedia/grav-plugin-git-sync][Git Sync plugin]]
+for [[https://getgrav.org][GRAV]].
+
+** April 28th, 2018
+
+:fa-check-square: Create Changelog.
+
+** 
+
+:fa-check-square: Create Introduction page using media from the
+[[http://dnd.wizards.com/articles/features/fan-site-kit][Wizard's Fan
+Site Kit]].
+
+** 
+
+:fa-check-square: Installed
+[[https://github.com/sommerregen/grav-plugin-toc][Table of Contents
+(TOC) plugin]] for [[https://getgrav.org][GRAV]].
+
+** 
+
+:fa-check-square: Add alphabet headers to
+[[http://ogl-srd5.com/spellcasting][spell lists]] for
+[[https://github.com/sommerregen/grav-plugin-toc][TOC]].
+
+** 
+
+:fa-check-square: Install SSL certificate (HTTPS) for primary and mail
+domains.
+
+** 
+
+:fa-check-square: Activate "Force SSL" globally in
+[[https://getgrav.org][GRAV]].
+
+** 
+
+:fa-check-square: Create a Markdown compilation of all SRD pages at the
+[[https://github.com/sigillumrasa/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md][SRD
+GitHub repo]].
+
+** 
+
+:fa-check-square: Add alphabet headers to
+[[http://ogl-srd5.com/magic][magic items]] for
+[[https://github.com/sommerregen/grav-plugin-toc][TOC]].
+
+** 
+
+:fa-check-square: Change theme CSS colors.
+
+** Coming Soon!
+
+:fa-square: Add
+[[https://github.com/trilbymedia/grav-plugin-tntsearch][TNT Search]], a
+powerful indexed-based full text search engine.
+
+** 
+
+*[[https://github.com/sigillumrasa/OGL-SRD5][Suggestions?]]*
